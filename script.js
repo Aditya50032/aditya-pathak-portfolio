@@ -1,4 +1,5 @@
 // trigger rebuild
-console.log("Portfolio Loaded");
+console.log("Creative portfolio loaded 🚀");
+
 
 
